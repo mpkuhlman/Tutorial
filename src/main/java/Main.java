@@ -5,5 +5,6 @@ public class Main {
     public static void main(String[] args) {
         String result = new KhushbooTutorial().GetMesg();
         System.out.println(result);
+        System.out.println("Cmon now");
     }
 }
